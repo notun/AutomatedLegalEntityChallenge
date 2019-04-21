@@ -1,6 +1,6 @@
 # Automated or Autonomous Legal Entity Challenge
 
-This MIT Media Lab repository is for the Human Dynamics research group open source project to describe and design an automated or autonomous valid legal entity. 
+This MIT Media Lab repository and [GitHub Pages site]( https://mitmedialab.github.io/AutomatedLegalEntityChallenge) is for the Human Dynamics research group open source project to describe and design an automated or autonomous valid legal entity. 
 
 This project aims to 1. define key design goals for automated or autonomous valid legal entities, 2. define objective measures for evaluating whether or the extent to which proposed designs and implementations achieve the design goals; 3. provide a simple process for open submission of proposed designs and implementations; and 4. provide a process assembling a panel of judges to apply defined objective measures for evaluating proposed designs and implementations.
 
