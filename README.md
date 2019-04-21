@@ -10,6 +10,12 @@ The initial phase of this project will be to define:
 * Validated business, legal and technical requirements and constraints; and
 * Identified objective criteria for testing successful implementation of the design, including functionality, performance, interopeability or conformance with defined success metrics.
 
+The above design goals, implementation requirements and test criteria are being developed by MIT with early iteration on the project wiki.  
+
+* **Project Wiki**: [Commentary Page](https://github.com/mitmedialab/AutomatedLegalEntityChallenge/wiki/Commentary)
+
+In addition, informal chat related to this project, including occassional engagement by MIT participants, is happening in a Telegram channel moderated by MIT Media Lab alumni Brenden Maher.  A link to request an invitation to join that Telegram channel will be made available. 
+
 ------------
 
 # Proposed Designs for Solving the Challenge
