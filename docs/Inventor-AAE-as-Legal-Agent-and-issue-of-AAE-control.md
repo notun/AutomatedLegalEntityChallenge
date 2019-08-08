@@ -1,9 +1,11 @@
-  # Law ReImagined – 
+# Law ReImagined – 
+
 # Inventing Automated and Autonomous Legal Entities
 
 ## Automated & Autonomous Entities (AAE) vs Natural Persons & Individuals (NPI)
 
 ### AAE capacity as possible “Legal Agent”, including an “A.I.”
+
 ### Issue of control of AAE by NPI & transfer of control of AAE to NPI
 
 DRAFT 20190806-0808 ChrisB unverified.
