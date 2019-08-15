@@ -23,3 +23,120 @@
 [HCCH | #40 - Full text](https://www.hcch.net/en/instruments/conventions/full-text/?cid=135)
 
 [New File](https://github.com/mitmedialab/AutomatedLegalEntityChallenge/new/master)
+
+# Automated or Autonomous Legal Entities
+
+# Article Summaries
+
+For each entry, include
+
+---------
+
+### Title
+
+[Author]
+
+[Citation]
+
+[Link]
+
+[Brief summary of the article]9optional)
+
+>"[Relevant Quotes or highlights]"
+
+>> [Commentary or other annotations]
+
+---------
+
+### Cause of Action Against Owner to Establish Abandonment of Personal Property.pdf
+
+### 141General.pdf
+
+### 1333Electronic agents and automated systems.pdf
+
+### ALGORITHMIC ENTITIES, 95 Wash. U. L. Rev. 887
+
+File Name: ALGORITHMIC ENTITIES.pdf
+
+95 Wash. U. L. Rev. 887
+Washington University Law Review 2018
+Lynn M. Lopucki a1
+
+* Page 1 **Marked text: AALE is a great threat if/when no human controllers.**
+
+> "This Article argues that algorithmic entities--legal entities that have no human controllers--greatly exacerbate the threat of artificial intelligence"
+
+* Page 1: **Marked text: Reasons why AALE with no human controller are a threat**
+
+> "Algorithmic entities are likely to prosper first and most in criminal, terrorist, and other anti-social activities because that is where they have their greatest comparative advantage over human-controlled entities. Control of legal entities will contribute to the threat algorithms pose by providing them with identities. Those identities will enable them to conceal their algorithmic natures while they participate in commerce, accumulate wealth, and carry out anti-social activities."
+
+----------
+
+### ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION A DEEP-DIVE ON GOVERNANCE AND.pdf
+
+### AUTONOMOUS WEAPON SYSTEMS THE POSSIBILITY AND PROBABILITY OF ACCOUNTABILITY.pdf
+
+### BRIDGING THE ACCOUNTABILITY GAP RIGHTS FOR NEW ENTITIES IN THE INFORMATION SOCIE.pdf
+
+### Cause of Action by Finder to Establish Right to Lost Personal Property.pdf
+
+### Cause of Action for Conversion by Bailee.pdf
+
+### CHAPTER 3 WHAT ROBOTS WANT AUTONOMOUS MACHINES CODES AND NEW FRONTIERS OF LEGAL.pdf
+
+### COMPUTABLE CONTRACTS.pdf
+
+### COPYRIGHT LAW AND ARTIFICIAL INTELLIGENCE EMERGING ISSUES.pdf
+
+### COPYRIGHTABILITY OF ARTWORKS PRODUCED BY CREATIVE ROBOTS AND ORIGINALITY THE FOR.pdf
+
+### COULD AI AGENTS BE HELD CRIMINALLY LIABLE ARTIFICIAL INTELLIGENCE AND THE CHALLE.pdf
+
+### DO AUTOMATED TRADING SYSTEMS DREAM OF MANIPULATING THE PRICE OF FUTURES CONTRACT.pdf
+
+### FROM DEEP BLUE TO DEEP LEARNING A QUARTER CENTURY OF PROGRESS FOR ARTIFICIAL MIN.pdf
+
+### HOW TO SUE A ROBOT.pdf
+
+### INTELLECTUAL PROPERTY RIGHTS FOR HUBOTS ON THE LEGAL IMPLICATIONS OF HUMAN-LIK.pdf
+
+### LIABILITY CONSIDERATIONS WHEN AUTONOMOUS VEHICLES CHOOSE THE ACCIDENT VICTIM.pdf
+
+### MACHINES WITHOUT PRINCIPALS LIABILITY RULES AND ARTIFICIAL INTELLIGENCE.pdf
+
+### NON-AUTONOMOUS ARTIFICIAL INTELLIGENCE PROGRAMS AND PRODUCTS LIABILITY HOW NEW A.pdf
+
+### NOT-SO-SMART BLOCKCHAIN CONTRACTS AND ARTIFICIAL RESPONSIBILITY.pdf
+
+### OF WILD BEASTS AND DIGITAL ANALOGUES THE LEGAL STATUS OF AUTONOMOUS SYSTEMS.pdf
+
+### OPINION IMPERSONATION BOTS AND KANSAS LAW.pdf
+
+### PROFESSIONS AND EXPERTISE HOW MACHINE LEARNING AND BLOCKCHAIN ARE REDESIGNING TH.pdf
+
+### PROPOSED RULES TO DETERMINE THE LEGAL USE OF AUTONOMOUS AND SEMI-AUTONOMOUS PLAT.pdf
+
+### REGULATING ARTIFICIAL INTELLIGENCE SYSTEMS RISKS CHALLENGES COMPETENCIES AND STR.pdf
+
+### Responsible_AI.PDF
+
+### SENSE SENSIBILITY AND SMART CONTRACTS A VIEW FROM A CONTRACT.pdf
+
+### THE CO-EVOLUTION OF AUTONOMOUS MACHINES AND LEGAL RESPONSIBILITY.pdf
+
+### THE CRIMINAL LIABILITY OF ARTIFICIAL INTELLIGENCE ENTITIES--FROM SCIENCE FICTION.pdf
+
+### THE IMPLICATIONS OF MODERN BUSINESS-ENTITY LAW FOR THE REGULATION OF AUTONOMOUS (1).pdf
+
+### The Implications of Modern Business-Entity Law for the Regulation of Autonomous.pdf
+
+### THE ROAD TO AUTONOMY.pdf
+
+### WAR TORTS AUTONOMOUS WEAPON SYSTEMS AND LIABILITY WHY A LIMITED STRICT LIABILITY.pdf
+
+### WHEN ARTIFICIAL INTELLIGENCE SYSTEMS PRODUCE INVENTIONS AN ALTERNATIVE MODEL FOR.pdf
+
+### WHEN TO PRAISE THE MACHINE THE PROMISE AND PERILS OF AUTOMATED TRANSACTIONAL DRA.pdf
+
+
+
