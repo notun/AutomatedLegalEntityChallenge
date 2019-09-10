@@ -138,5 +138,10 @@ Lynn M. Lopucki a1
 
 ### WHEN TO PRAISE THE MACHINE THE PROMISE AND PERILS OF AUTOMATED TRANSACTIONAL DRA.pdf
 
+### WIKIPEDIA LEGAL PERSON
 
-test edit
+https://en.wikipedia.org/wiki/Legal_person
+
+ >the doctrine of *persona ficta* allowed monasteries to have a legal existence that was apart from the monks, simplifying the difficulty in balancing the need for such groups to have infrastructure though the monks took vows of personal poverty
+ 
+>as a fictional person, a monastery could not be held guilty of delict due to not having a soul, helping to protect the organization from non-contractual obligations to surrounding communities. This effectively moved such liability to persons acting within the organization while protecting the structure itself, since persons were considered to have a soul and therefore capable of negligence and able to be excommunicated.
