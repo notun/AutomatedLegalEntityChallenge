@@ -40,7 +40,7 @@ For each entry, include
 
 [Link]
 
-[Brief summary of the article]9optional)
+[Brief summary of the article] optional)
 
 >"[Relevant Quotes or highlights]"
 
@@ -69,6 +69,10 @@ Lynn M. Lopucki a1
 * Page 1: **Marked text: Reasons why AALE with no human controller are a threat**
 
 > "Algorithmic entities are likely to prosper first and most in criminal, terrorist, and other anti-social activities because that is where they have their greatest comparative advantage over human-controlled entities. Control of legal entities will contribute to the threat algorithms pose by providing them with identities. Those identities will enable them to conceal their algorithmic natures while they participate in commerce, accumulate wealth, and carry out anti-social activities."
+
+* Page 3 **Marked Text: Genesis of AALE legal personhood**
+
+> "...anyone can confer legal personhood on an autonomous computer algorithm merely by putting it in control of a limited liability company (LLC). 11 The algorithm can exercise the rights of the entity, making them effectively rights of the algorithm."
 
 ----------
 
