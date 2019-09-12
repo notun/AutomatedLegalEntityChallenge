@@ -70,6 +70,17 @@ Lynn M. Lopucki a1
 
 > "Algorithmic entities are likely to prosper first and most in criminal, terrorist, and other anti-social activities because that is where they have their greatest comparative advantage over human-controlled entities. Control of legal entities will contribute to the threat algorithms pose by providing them with identities. Those identities will enable them to conceal their algorithmic natures while they participate in commerce, accumulate wealth, and carry out anti-social activities."
 
+* Page 1 **Marked text: Four aspects of corporate law which make AALE a threat**
+
+> "First, algorithms can lawfully have exclusive control of not just American LLC's but also a large majority of the entity forms in most countries."
+
+"Second, entities can change regulatory regimes quickly and easily through migration."
+
+"Third, governments--particularly in the United States--lack the ability to determine who controls the entities they charter and so cannot determine which have non-human controllers."
+
+"Lastly, corporate charter competition, combined with ease of entity migration, makes it virtually impossible for any government to regulate algorithmic control of entities."
+
+
 ----------
 
 ### ARTIFICIAL INTELLIGENCE AND THE FOG OF INNOVATION A DEEP-DIVE ON GOVERNANCE AND.pdf
